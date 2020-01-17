@@ -1,7 +1,6 @@
 li {
   padding: 5px;
   margin: 5px;
-  background: #faebd7;
 }
 
 .label {
@@ -16,4 +15,22 @@ li {
 
 .form-group {
   margin-bottom: 5px;
+}
+body{
+  background-image: url("../Photo/back.jpg");
+ 
+ text-shadow: 0px 0px 9px black;
+}
+
+.wrapper{
+  display: flex;
+  justify-content: space-around
+}
+.burger{
+  text-align: center;
+}
+.add{
+  text-align: center;
+  margin-right: 40px;
+  margin-top: 80px;
 }
